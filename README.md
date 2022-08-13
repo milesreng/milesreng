@@ -1,3 +1,11 @@
-### Hi, I'm Miles!
+![](https://github.com/milesreng/milesreng/blob/main/github%20readme%20banner%20green.png?raw=true)
 
-[![Miles' GitHub stats](https://github-readme-stats.vercel.app/api?username=milesreng)](https://github.com/milesreng/github-readme-stats)
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+
+Skills: JAVA / PYTHON / HTML / CSS
+
+- 🌱 I’m currently learning C++ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/milesreng)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/milesreng/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](milesreng.github.io)  
+
