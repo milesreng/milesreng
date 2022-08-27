@@ -1,7 +1,5 @@
 ![](https://github.com/milesreng/milesreng/blob/main/github%20readme%20banner%20green.png?raw=true)
 
-More about me
-
 Skills: JAVA / PYTHON / HTML / CSS / JAVASCRIPT 
 
 - 🌱 I’m currently learning React.js and C
