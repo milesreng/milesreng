@@ -1,7 +1,6 @@
 <div>
-  <img src="[https://giphy.com/embed/Tz30dcgKE3GCTYpxol](https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif)" />
+  <img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif" />
 </div>
-
 
 ![](https://github.com/milesreng/milesreng/blob/main/github%20readme%20banner%20green.png?raw=true)
 
