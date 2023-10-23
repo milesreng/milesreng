@@ -1,10 +1,6 @@
 <div>
-  <img src="https://giphy.com/embed/Tz30dcgKE3GCTYpxol" />
+  <img src="[https://giphy.com/embed/Tz30dcgKE3GCTYpxol](https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif)" />
 </div>
-
-
-<iframe src="https://giphy.com/embed/Tz30dcgKE3GCTYpxol" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/art-pixel-tech-Tz30dcgKE3GCTYpxol">via GIPHY</a></p>
-
 
 
 ![](https://github.com/milesreng/milesreng/blob/main/github%20readme%20banner%20green.png?raw=true)
