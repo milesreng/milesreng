@@ -1,12 +1,8 @@
-<div>
-  <img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/Tz30dcgKE3GCTYpxol/giphy.gif" height="300" />
 </div>
 
-![](https://github.com/milesreng/milesreng/blob/main/github%20readme%20banner%20green.png?raw=true)
-
-
-
-![Java](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=java&logoColor=black)
+![Java]([https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=java&logoColor=black](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge))
 
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
