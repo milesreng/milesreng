@@ -9,83 +9,43 @@
   <a href="https://github/milesreng">
     <img src="https://img.shields.io/badge/GitHub-43853D?logo=github&logoColor=white&style=for-the-badge" alt="github" />
   </a>
+  <a href="https://milesreng.com">
+    <img src="https://img.shields.io/badge/website-000000?logo=mega&logoColor=white&style=for-the-badge" alt="website" />
+  </a>
 </div>
 
 <div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=milesreng&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=milesreng&style=flat-square&color=blue" alt="profile views badge"/>
 </div>
 
 <h1 align="center">Hi, I'm <strong>Miles</strong></h1>
 
-<table>
-  <thead>
-    <th>
-    <h3>Programming Languages</h3>
-    </th>
-    <th>
-      <h3>Tools/Frameworks</h3>
-    </th>
-  </thead>
-  <tbody>
-    <tr>
-      <td width="500">
+<h3>Programming Languages</h3>
           <div>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="java logo" width="50" />
-            &emsp;&emsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="javascript logo" width="50" />
-            &emsp;&emsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original-wordmark.svg" alt="html logo" width="50" />
-            &emsp;&emsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original-wordmark.svg" alt="css logo" width="50" />
-            <br /><br />
-            &emsp;&emsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/r/r-original.svg" alt="rstudio logo" width="50" />
-            &emsp;&emsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" alt="python logo" width="50" />
-            &emsp;&emsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt="c logo" width="50" />
-            &emsp;&emsp;
-            <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/latex/latex-original.svg" alt="latex logo" width="50" />
+            <img src="https://img.shields.io/badge/Java-fca503?&logoColor=white&style=flat-square" alt="java logo" />
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" alt="javascript logo" />
+            <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=flat-square" alt="HTML logo" />
+            <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square" alt="CSS logo" />
+            <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" alt="python logo" />
           </div>
-          <br />
-          <p style="color:blue">Java, JavaScript, HTML/CSS, R, Python, C, Latex</p>
-        </td>
-        <td>
+              <h3>Tools/Frameworks</h3>
             <div>
-              <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react logo" width="50" />
-              &emsp;&emsp;
-              <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" alt="nodejs logo" width="50" />
-              &emsp;&emsp;
-              <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/express/express-original.svg" alt="express logo" width="50" />
-              &emsp;&emsp;
-              <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb logo" width="50" />
-              &emsp;&emsp;
-              <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/firebase/firebase-plain-wordmark.svg" alt="firebase logo" width="50" />
-              <br /><br />
-              &emsp;&emsp;
-              <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss logo" width="50" />
-              &emsp;&emsp;
-              <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg" alt="git logo" width="50" />
-              &emsp;&emsp;
-              <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql logo" width="50" />
-              &emsp;&emsp;
-              <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/salesforce/salesforce-original.svg" alt="salesforce logo" width="50" />
-              &emsp;&emsp;
-              <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/docker/docker-original.svg" alt="docker logo" width="50" />
+              <img src="https://img.shields.io/badge/ReactJS-45ded4?logo=react&logoColor=white&style=flat-square" alt="react logo" />
+              <img src="https://img.shields.io/badge/NodeJS-339933?logo=nodedotjs&logoColor=white&style=flat-square" alt="react logo" />
+              <img src="https://img.shields.io/badge/ExpressJS-878a87?logo=express&logoColor=white&style=flat-square" alt="react logo" />
+              <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" alt="react logo" />
+              <img src="https://img.shields.io/badge/Firebase-deab12?logo=firebase&logoColor=white&style=flat-square" alt="react logo" />
+              <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square" alt="react logo" /><br />
+              <img src="https://img.shields.io/badge/Firebase-deab12?logo=firebase&logoColor=white&style=flat-square" alt="react logo" />
+              <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" alt="react logo" />
+              <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat-square" alt="react logo" />
+              <img src="https://img.shields.io/badge/Salesforce-00A1E0?logo=salesforce&logoColor=white&style=flat-square" alt="react logo" />
+              <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square" alt="react logo" />
             </div>
-            <br />
-            <p>ReactJS, NodeJS, ExpressJS, MongoDB, Firebase, TailwindCSS, GIt, PostgreSQL, Salesforce, Docker</p>
-          </td>
-        </tr>
-    </tbody>
-  </table>
-<br />
-<br />
-<br />
-  
+
+  <br />
   <div align="center">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=milesreng&theme=light&background=000000)](https://git.io/streak-stats" alt="github stats" />
-    <br />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milesreng&layout=compact&theme=light" alt="top language stats" />
   </div>
 
