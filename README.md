@@ -18,10 +18,17 @@
 <h1 align="center">Hi, I'm <strong>Miles</strong></h1>
 
 <table>
+  <thead>
+    <th>
+    <h3>Programming Languages</h3>
+    </th>
+    <th>
+      <h3>Tools/Frameworks</h3>
+    </th>
+  </thead>
   <tbody>
     <tr>
       <td width="500">
-        <h3>Programming Languages</h3>
           <div>
             <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/java/java-original.svg" alt="java logo" width="50" />
             &emsp;&emsp;
@@ -44,8 +51,7 @@
           <p style="color:blue">Java, JavaScript, HTML/CSS, R, Python, C, Latex</p>
         </td>
         <td>
-          <h3>Tools/Frameworks</h3>
-            <div style="align:left">
+            <div>
               <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg" alt="react logo" width="50" />
               &emsp;&emsp;
               <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg" alt="nodejs logo" width="50" />
@@ -73,10 +79,16 @@
         </tr>
     </tbody>
   </table>
-
-
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=milesreng&theme=dark&background=000000)](https://git.io/streak-stats)
 <br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milesreng&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<br />
+<br />
+  
+  <div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=milesreng&theme=light&background=000000)](https://git.io/streak-stats" alt="github stats" />
+    <br />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milesreng&layout=compact&theme=light" alt="top language stats" />
+  </div>
+
+
+<br />
+
